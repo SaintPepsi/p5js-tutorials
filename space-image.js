@@ -1,6 +1,5 @@
 
 var spaceImage;
-
 function setup() {
     createCanvas(windowWidth, windowHeight);
     spaceImage = generateSpaceImage();
